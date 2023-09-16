@@ -1,0 +1,17 @@
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\bin\Debug\net6.0-windows\DerleyiciProje.exe
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\bin\Debug\net6.0-windows\DerleyiciProje.deps.json
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\bin\Debug\net6.0-windows\DerleyiciProje.runtimeconfig.json
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\bin\Debug\net6.0-windows\DerleyiciProje.dll
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\bin\Debug\net6.0-windows\DerleyiciProje.pdb
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.AssemblyInfoInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.AssemblyInfo.cs
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.dll
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\refint\DerleyiciProje.dll
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.pdb
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\DerleyiciProje.genruntimeconfig.cache
+C:\Users\samet\OneDrive\Masaüstü\DerleyiciProje\DerleyiciProje\obj\Debug\net6.0-windows\ref\DerleyiciProje.dll
